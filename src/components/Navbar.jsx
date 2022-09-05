@@ -1,6 +1,6 @@
-import React from 'react';
-import { Stack } from '@mui/material';
-import { Link } from 'react-router-dom';
+import { Stack } from "@mui/material";
+import { Link } from "react-router-dom";
+
 import { logo } from "../utils/constants";
 import { SearchBar } from "./";
 
@@ -11,5 +11,6 @@ const Navbar = () => (
     </Link>
     <SearchBar />
   </Stack>
-)
-export default Navbar
+);
+
+export default Navbar;
