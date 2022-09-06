@@ -2,4 +2,5 @@
 
 live demo => https://kinghits.netlify.app/
 
-![kinghits](https://user-images.githubusercontent.com/100964607/188514635-6915e25f-6918-49e5-b455-bfd9e6b2cb86.png)
+
+![Kingmov](https://user-images.githubusercontent.com/100964607/188524528-3c02ed8d-8355-4680-86a0-7cc824ca4e7c.png)
